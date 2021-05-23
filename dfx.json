@@ -2,9 +2,9 @@
   "version": 1,
   "dfx": "0.7.0-beta.6",
   "canisters": {
-    "sha224test": {
+    "whoami": {
       "type": "motoko",
-      "main": "src/sha224test/main.mo"
+      "main": "src/main.mo"
     }
   },
   "defaults": {
